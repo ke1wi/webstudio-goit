@@ -163,6 +163,7 @@ left: 512px;
 top: 174px;
 background: #F5F4FA;
 border-radius: 4px;
+border: 0px;
 }
 .filter> li >.li1:focus{
 background: #2196F3;
@@ -179,6 +180,7 @@ top: 174px;
 
 background: #F5F4FA;
 border-radius: 4px;
+border: 0px;
 }
 .filter> li >.li3 {
 position: absolute;
@@ -189,6 +191,7 @@ top: 174px;
 
 background: #F5F4FA;
 border-radius: 4px;
+border: 0px;
 }
 .filter> li >.li4 {
 position: absolute;
@@ -196,6 +199,7 @@ width: 103px;
 height: 38px;
 left: 846px;
 top: 174px;
+border: 0px;
 
 background: #F5F4FA;
 border-radius: 4px;
@@ -209,6 +213,7 @@ top: 174px;
 
 background: #F5F4FA;
 border-radius: 4px;
+border: 0px;
 }
 button {
 font-family: 'Roboto';
